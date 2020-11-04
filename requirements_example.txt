@@ -1,0 +1,6 @@
+cached-property==1.5.2
+h5py==3.0.0
+joblib==0.17.0
+mlsocket==0.1.2
+numpy==1.19.4
+opencv-contrib-python==4.4.0.46
