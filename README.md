@@ -56,6 +56,8 @@ Your system has to have a CUDA GPU with nvidia-driver installed. This might not 
     ```
 
 [See this video](https://youtu.be/0zYOsTlfPFY), for a step by step guide.
+[See this video](https://youtu.be/EIDBSBH1avU), to see how to use whta the model outputs.
+
 
 ## Contributing
 
